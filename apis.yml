@@ -10,4 +10,6 @@ specificationVersion: '0.19'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/middleby-corporation
+  - type: Blog
+    url: https://middleby.com/feed/
 apis: []

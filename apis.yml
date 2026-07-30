@@ -2,7 +2,18 @@ aid: middleby
 url: https://raw.githubusercontent.com/api-evangelist/middleby/refs/heads/main/apis.yml
 name: Middleby
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/middleby.png
 description: 'Profile for Middleby in the API Evangelist network. Fortune F1000 (rank 791).'
 created: '2026-05-05'
 modified: '2026-05-05'
